@@ -1,0 +1,25 @@
+{
+  "name": "cardputer",
+  "version": "1.0.0",
+  "description": "A package for using the cardputer with devicescript.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reggi/cardputer.git"
+  },
+  "author": "Thomas Reggi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reggi/cardputer/issues"
+  },
+  "homepage": "https://github.com/reggi/cardputer#readme",
+  "devDependencies": {
+    "@devicescript/cli": "*"
+  },
+  "devicescript": {
+    "library": true
+  }
+}
